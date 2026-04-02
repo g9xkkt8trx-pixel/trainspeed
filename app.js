@@ -245,7 +245,7 @@ function showAnswer() {
   `;
 
   if (segment.image) {
-    html += `<img src="${segment.image}" alt="${segment.fromStation}→${segment.toStation}" style="width:100%; margin-top:16px; border-radius:12px;">`;
+   html += `<img src="${encodeURI(segment.image)}" alt="${segment.fromStation}→${segment.toStation}" style="width:100%; margin-top:16px; border-radius:12px;">`;
   }
 
   document.getElementById("answer").innerHTML = html;
