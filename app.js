@@ -21,7 +21,7 @@ const data = [
     e531: [125, 105],
     e657: [125, 125, 120],
     note: "",
-    image: "赤塚内原 1.jpg"
+    image: "赤塚内原１.jpg"
   },
   {
     fromStation: "内原",
@@ -29,7 +29,7 @@ const data = [
     e531: [105, 110, 110],
     e657: [125, 130, 130],
     note: "",
-    image: "内原友部 1.jpg"
+    image: "内原友部１.jpg"
   },
   {
     fromStation: "友部",
