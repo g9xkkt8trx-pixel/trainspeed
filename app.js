@@ -45,7 +45,7 @@ const data = [
     e531: [95, 100],
     e657: [110, 100],
     note: "",
-    image: "岩間羽鳥 1.jpg"
+    image: "岩間羽鳥１.jpg"
   },
   {
     fromStation: "羽鳥",
@@ -53,7 +53,7 @@ const data = [
     e531: [105, 105, 100],
     e657: [125, 125, 110],
     note: "",
-    image: "羽鳥石岡 1.jpg"
+    image: "羽鳥石岡１.jpg"
   },
   {
     fromStation: "石岡",
@@ -61,7 +61,7 @@ const data = [
     e531: [105, 105, 100],
     e657: [105, 125, 120],
     note: "",
-    image: "石岡高浜 1.jpg"
+    image: "石岡高浜１.jpg"
   },
   {
     fromStation: "高浜",
@@ -69,7 +69,7 @@ const data = [
     e531: [95, 110],
     e657: [110, 130],
     note: "",
-    image: "高浜神立 1.jpg"
+    image: "高浜神立１.jpg"
   },
   {
     fromStation: "神立",
@@ -77,7 +77,7 @@ const data = [
     e531: [125, 95, 105, 115, 100],
     e657: [130, 110, 125, 115, 100],
     note: "",
-    image: "神立土浦 1.jpg"
+    image: "神立土浦１.jpg"
   },
   {
     fromStation: "土浦",
@@ -85,7 +85,7 @@ const data = [
     e531: [95, 100, 95, 105, 115],
     e657: [105, 120, 110, 125, 130],
     note: "",
-    image: "土浦荒川沖1.jpg"
+    image: "土浦荒川沖１.jpg"
   },
   {
     fromStation: "荒川沖",
@@ -93,7 +93,7 @@ const data = [
     e531: [110],
     e657: [120],
     note: "",
-    image: "荒川沖ひたち野うしく1.jpg"
+    image: "荒川沖ひたち野うしく１.jpg"
   },
   {
     fromStation: "ひたち野うしく",
@@ -101,7 +101,7 @@ const data = [
     e531: [110],
     e657: [130],
     note: "",
-    image: "ひたちのうしく牛久 1.jpg"
+    image: "ひたちのうしく牛久１.jpg"
   },
   {
     fromStation: "牛久",
@@ -109,7 +109,7 @@ const data = [
     e531: [110, 100],
     e657: [125, 105],
     note: "",
-    image: "牛久龍ヶ崎市 1.jpg"
+    image: "牛久龍ヶ崎市１.jpg"
   },
   {
     fromStation: "龍ヶ崎市",
@@ -117,7 +117,7 @@ const data = [
     e531: [90, 110, 90],
     e657: [100, 130, 100],
     note: "",
-    image: "龍ヶ崎市藤代 1.jpg"
+    image: "龍ヶ崎市藤代１.jpg"
   },
   {
     fromStation: "藤代",
@@ -125,7 +125,7 @@ const data = [
     e531: [115, 115, 95, 80],
     e657: [130, 130, 105, 90],
     note: "",
-    image: "藤代取手 1.jpg"
+    image: "藤代取手１.jpg"
   },
   {
     fromStation: "取手",
@@ -133,7 +133,7 @@ const data = [
     e531: [95],
     e657: [110],
     note: "",
-    image: "取手天王台 1.jpg"
+    image: "取手天王台１.jpg"
   },
   {
     fromStation: "天王台",
@@ -141,7 +141,7 @@ const data = [
     e531: [],
     e657: [],
     note: "",
-    image: "天王台我孫子 1.jpg"
+    image: "天王台我孫子１.jpg"
   },
   {
     fromStation: "我孫子",
@@ -149,7 +149,7 @@ const data = [
     e531: [105, 95],
     e657: [125, 95],
     note: "",
-    image: "我孫子柏 1.jpg"
+    image: "我孫子柏１.jpg"
   },
   {
     fromStation: "柏",
@@ -157,7 +157,7 @@ const data = [
     e531: [120, 105, 105],
     e657: [130, 125, 125],
     note: "",
-    image: "柏松戸 1.jpg"
+    image: "柏松戸１.jpg"
   },
   {
     fromStation: "松戸",
@@ -165,7 +165,7 @@ const data = [
     e531: [105, 105, 110, 90, 95, 105, 105, 90, 95, 115, 105],
     e657: [125, 125, 120, 90, 110, 120, 125, 100, 110, 115, 105],
     note: "",
-    image: "松戸北千住 1.jpg"
+    image: "松戸北千住１.jpg"
   },
   {
     fromStation: "北千住",
@@ -173,7 +173,7 @@ const data = [
     e531: [105, 105],
     e657: [105, 105],
     note: "",
-    image: "北千住南千住 1.jpg"
+    image: "北千住南千住１.jpg"
   },
   {
     fromStation: "南千住",
@@ -181,7 +181,7 @@ const data = [
     e531: [70, 95],
     e657: [70, 95],
     note: "",
-    image: "南千住三河島 1.jpg"
+    image: "南千住三河島１.jpg"
   },
   {
     fromStation: "三河島",
@@ -189,7 +189,7 @@ const data = [
     e531: [80, 65, 85],
     e657: [80, 65, 85],
     note: "",
-    image: "三河島日暮里 1.jpg"
+    image: "三河島日暮里１.jpg"
   },
   {
     fromStation: "日暮里",
@@ -197,7 +197,7 @@ const data = [
     e531: [70, 55, 50],
     e657: [70, 55, 50],
     note: "未確定の続きがあればあとで修正",
-    image: "日暮里上野 1.jpg"
+    image: "日暮里上野１.jpg"
   }
 ];
 
