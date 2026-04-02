@@ -37,7 +37,7 @@ const data = [
     e531: [80, 95, 115, 105, 90],
     e657: [80, 95, 130, 115, 100],
     note: "",
-    image: "友部岩間 1.jpg"
+    image: "友部岩間１.jpg"
   },
   {
     fromStation: "岩間",
