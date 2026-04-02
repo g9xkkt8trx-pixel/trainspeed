@@ -5,7 +5,7 @@ const data = [
     e531: [105, 105, 125, 90],
     e657: [125, 125, 130, 95],
     note: "",
-    image: "data/images/勝田水戸１.jpg"
+    image: "勝田水戸1.jpg"
   },
   {
     fromStation: "水戸",
